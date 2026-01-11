@@ -1,0 +1,27 @@
+h1{
+    text-transform:uppercase;
+    text-align:center;
+    color:white;
+}
+header{
+    background-color: hsl(254, 93%, 5%);
+    padding:20px 20px;
+    border-bottom:3px solid hsl(33, 91%, 55%);
+    margin-bottom:50px;
+}
+img{
+    border-radius:5px;
+    width:400px;
+    height:280px;
+}
+main{
+    display:flex;
+    height:900px;
+    flex-wrap: wrap;
+    gap:20px;
+    justify-content:center;
+}
+img:hover{
+    box-shadow: 0px 0px 30px hsl(0, 0%, 100%),0px 0px 30px hsl(0, 43%, 1%);
+    transform: scale(1.05)
+}
