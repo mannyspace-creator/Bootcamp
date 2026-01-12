@@ -1,4 +1,5 @@
-# CSS Flexbox Gallery Assignment
+# What i learned today
+## CSS Flexbox Gallery Assignment
 ## Project Overview
 This project focuses on building a responsive image gallery using CSS Flexbox.
 ## Development Hurdles & Breakthroughs
